@@ -1,6 +1,4 @@
 # nosql-challenge
-# nosql-challenge
-
 ### Scenario
 
 Using data obtained from the [UK Food Standards Agency](https://www.food.gov.uk/), create a NoSQL database in MongoDB, import the data and use the PyMongo module to complete additional tasks.
