@@ -86,15 +86,6 @@ With the database documents prepared, conduct some exploratory analysis on the d
     
     I've also output the results for each DataFrame into a CSV format for ease of access and distribution of the data.
 
-- Which establishments have a hygiene score equal to 20?
-    - CSV Output - [hygiene](uk-food-agency/csv_outputs/hygiene_df.csv)
-- Which establishments in "London" have a 'RatingValue' greater than or equal to 4?
-    - CSV Output - [london_rating](uk-food-agency/csv_outputs/london_rating.csv)
-- What are the top 5 establishments with a 'RatingValue' of 5, sorted by lowest hygiene score, nearest to the new restaurant added, "Penang Flavours"?
-    - CSV Output - [near_penang](uk-food-agency/csv_outputs/near_penang_df.csv)
-- How many establishments in each Local Authority area have a hygiene score of 0? Sort the results from highest to lowest, and print out the top ten local authority areas.
-    - CSV Output - [aggregate](uk-food-agency/csv_outputs/aggregate_df.csv)
-
 --------
 
 ## References
